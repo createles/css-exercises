@@ -1,0 +1,21 @@
+/* styles.css */
+
+.odds {
+    background-color: #FF7F7F;
+    font-family: Verdana, DejaVu sans, sans-serif;
+}
+
+#bluebig {
+    color: rgb(0, 47, 255);
+    font-size: 36px;
+}
+
+.odds.cooler {
+    font-size: 24px;
+}
+
+#greenblack {
+    background-color: hsl(133, 100%, 72%);
+    font-size: 24px;
+    font-weight: bold;
+}
